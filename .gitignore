@@ -1,2 +1,16 @@
+# Pastas de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários do Jupyter
 .ipynb_checkpoints/
+
+# Cache do Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Arquivos grandes ou temporários
+*.xlsx
+*.csv
+*.log
